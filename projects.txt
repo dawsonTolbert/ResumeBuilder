@@ -1,0 +1,3 @@
+Major;College University;City;May, 2024;5.0
+App1;Information;More Information
+App2;Information;More Information
